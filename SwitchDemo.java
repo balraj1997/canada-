@@ -33,6 +33,8 @@ public class Switch {
 		case 7:
 			System.out.println("its sunday");
 			break;
+		case 8:
+			System.out.println("its noday");
 		default:
 			System.out.println("there are only seven days in a week ");
 			break;
